@@ -1,0 +1,1242 @@
+{
+    "Aldumite - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 4,
+            "Tungsten": 2,
+            "Iron": 5
+        }
+    },
+    "Aldumite - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Tungsten": 4,
+            "Frame": 3,
+            "Rig": 1,
+            "Coolant": 2
+        }
+    },
+    "Aldumite - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Tungsten": 6,
+            "Frame": 5,
+            "Rig": 1,
+            "Coolant": 4
+        }
+    },
+    "Alkanes - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 5,
+            "Nickel": 4,
+            "Copper": 3
+        }
+    },
+    "Alkanes - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Vanadium": 4,
+            "Frame": 3,
+            "Sieve": 2,
+            "Gauge": 2
+        }
+    },
+    "Alkanes - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Vanadium": 6,
+            "Frame": 5,
+            "Gauge": 3,
+            "Sieve": 2
+        }
+    },
+    "Aluminum - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 4,
+            "Tungsten": 2,
+            "Iron": 5
+        }
+    },
+    "Aluminum - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Tungsten": 4,
+            "Frame": 3,
+            "Rig": 1,
+            "Coolant": 2
+        }
+    },
+    "Aluminum - Industrial   20 Power": {
+        "power": 6,
+        "ingredients": {
+            "Frame": 5,
+            "Rig": 1,
+            "Coolant": 4
+        }
+    },
+    "Antimony - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 4,
+            "Tungsten": 2,
+            "Iron": 5
+        }
+    },
+    "Antimony - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Tungsten": 4,
+            "Frame": 3,
+            "Rig": 1,
+            "Coolant": 2
+        }
+    },
+    "Antimony - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Tungsten": 6,
+            "Frame": 5,
+            "Rig": 1,
+            "Coolant": 4
+        }
+    },
+    "Argon - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 5,
+            "Nickel": 4,
+            "Copper": 3
+        }
+    },
+    "Argon - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Vanadium": 4,
+            "Frame": 3,
+            "Sieve": 2,
+            "Gauge": 2
+        }
+    },
+    "Argon - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Vanadium": 6,
+            "Frame": 5,
+            "Gauge": 3,
+            "Sieve": 2
+        }
+    },
+    "Benzene - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 5,
+            "Nickel": 4,
+            "Copper": 3
+        }
+    },
+    "Benzene - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Vanadium": 4,
+            "Frame": 3,
+            "Sieve": 2,
+            "Gauge": 2
+        }
+    },
+    "Benzene - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Vanadium": 6,
+            "Frame": 5,
+            "Gauge": 3,
+            "Sieve": 2
+        }
+    },
+    "Beryllium - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 4,
+            "Tungsten": 2,
+            "Iron": 5
+        }
+    },
+    "Beryllium - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Tungsten": 4,
+            "Frame": 3,
+            "Rig": 1,
+            "Coolant": 2
+        }
+    },
+    "Beryllium - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Tungsten": 6,
+            "Frame": 5,
+            "Rig": 1,
+            "Coolant": 4
+        }
+    },
+    "Caesium - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 5,
+            "Iron": 3,
+            "Nickel": 4
+        }
+    },
+    "Caesium - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Titanium": 4,
+            "Frame": 3,
+            "Manifold": 3,
+            "Sieve": 2
+        }
+    },
+    "Caesium - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Titanium": 6,
+            "Frame": 5,
+            "Sieve": 2,
+            "Manifold": 3
+        }
+    },
+    "Carboxylic Acids - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 5,
+            "Iron": 3,
+            "Nickel": 4
+        }
+    },
+    "Carboxylic Acids - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Titanium": 4,
+            "Frame": 3,
+            "Manifold": 3,
+            "Sieve": 2
+        }
+    },
+    "Carboxylic Acids - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Titanium": 6,
+            "Frame": 5,
+            "Sieve": 2,
+            "Manifold": 3
+        }
+    },
+    "Chlorine - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 5,
+            "Nickel": 4,
+            "Copper": 3
+        }
+    },
+    "Chlorine - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Vanadium": 4,
+            "Frame": 3,
+            "Sieve": 2,
+            "Gauge": 2
+        }
+    },
+    "Chlorine - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Vanadium": 6,
+            "Frame": 5,
+            "Gauge": 3,
+            "Sieve": 2
+        }
+    },
+    "Chlorosilanes - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 5,
+            "Iron": 3,
+            "Nickel": 4
+        }
+    },
+    "Chlorosilanes - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Titanium": 4,
+            "Frame": 3,
+            "Manifold": 3,
+            "Sieve": 2
+        }
+    },
+    "Chlorosilanes - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Titanium": 6,
+            "Frame": 5,
+            "Sieve": 2,
+            "Manifold": 3
+        }
+    },
+    "Cobalt - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Tungsten": 4,
+            "Frame": 3,
+            "Rig": 1,
+            "Coolant": 2
+        }
+    },
+    "Cobalt - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Tungsten": 6,
+            "Frame": 5,
+            "Rig": 1,
+            "Coolant": 4
+        }
+    },
+    "Copper - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 4,
+            "Tungsten": 2,
+            "Iron": 5
+        }
+    },
+    "Copper - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Tungsten": 4,
+            "Frame": 3,
+            "Rig": 1,
+            "Coolant": 2
+        }
+    },
+    "Copper - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Tungsten": 6,
+            "Frame": 5,
+            "Rig": 1,
+            "Coolant": 4
+        }
+    },
+    "Dysprosium - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 4,
+            "Tungsten": 2,
+            "Iron": 5
+        }
+    },
+    "Dysprosium - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Tungsten": 4,
+            "Frame": 3,
+            "Rig": 1,
+            "Coolant": 2
+        }
+    },
+    "Dysprosium - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Tungsten": 6,
+            "Frame": 5,
+            "Rig": 1,
+            "Coolant": 4
+        }
+    },
+    "Europium - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 4,
+            "Tungsten": 2,
+            "Iron": 5
+        }
+    },
+    "Europium - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Tungsten": 4,
+            "Frame": 3,
+            "Rig": 1,
+            "Coolant": 2
+        }
+    },
+    "Europium - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Tungsten": 6,
+            "Frame": 5,
+            "Rig": 1,
+            "Coolant": 4
+        }
+    },
+    "Fluorine - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 5,
+            "Nickel": 4,
+            "Copper": 3
+        }
+    },
+    "Fluorine - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Vanadium": 4,
+            "Frame": 3,
+            "Sieve": 2,
+            "Gauge": 2
+        }
+    },
+    "Fluorine - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Vanadium": 6,
+            "Frame": 5,
+            "Gauge": 3,
+            "Sieve": 2
+        }
+    },
+    "Gold - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 4,
+            "Tungsten": 2,
+            "Iron": 5
+        }
+    },
+    "Gold - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Tungsten": 4,
+            "Frame": 3,
+            "Rig": 1,
+            "Coolant": 2
+        }
+    },
+    "Gold - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Tungsten": 6,
+            "Frame": 5,
+            "Rig": 1,
+            "Coolant": 4
+        }
+    },
+    "Helium-3 - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 5,
+            "Nickel": 4,
+            "Copper": 3
+        }
+    },
+    "Helium-3 - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Vanadium": 4,
+            "Frame": 3,
+            "Sieve": 2,
+            "Gauge": 2
+        }
+    },
+    "Helium-3 - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Vanadium": 6,
+            "Frame": 5,
+            "Gauge": 3,
+            "Sieve": 2
+        }
+    },
+    "Indicite - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 4,
+            "Tungsten": 2,
+            "Iron": 5
+        }
+    },
+    "Indicite - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Tungsten": 4,
+            "Frame": 3,
+            "Rig": 1,
+            "Coolant": 2
+        }
+    },
+    "Indicite - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Tungsten": 6,
+            "Frame": 5,
+            "Rig": 1,
+            "Coolant": 4
+        }
+    },
+    "Ionic Liquids - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 5,
+            "Iron": 3,
+            "Nickel": 4
+        }
+    },
+    "Ionic Liquids - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Titanium": 4,
+            "Frame": 3,
+            "Manifold": 3,
+            "Sieve": 2
+        }
+    },
+    "Ionic Liquids - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Titanium": 6,
+            "Frame": 5,
+            "Sieve": 2,
+            "Manifold": 3
+        }
+    },
+    "Iridium - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 4,
+            "Tungsten": 2,
+            "Iron": 5
+        }
+    },
+    "Iridium - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Tungsten": 4,
+            "Frame": 3,
+            "Rig": 1,
+            "Coolant": 2
+        }
+    },
+    "Iridium - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Tungsten": 6,
+            "Frame": 5,
+            "Rig": 1,
+            "Coolant": 4
+        }
+    },
+    "Iron - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 4,
+            "Tungsten": 2,
+            "Iron": 5
+        }
+    },
+    "Iron - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Tungsten": 4,
+            "Frame": 3,
+            "Rig": 1,
+            "Coolant": 2
+        }
+    },
+    "Iron - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Tungsten": 6,
+            "Frame": 5,
+            "Rig": 1,
+            "Coolant": 4
+        }
+    },
+    "Lead - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 4,
+            "Tungsten": 2,
+            "Iron": 5
+        }
+    },
+    "Lead - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Tungsten": 4,
+            "Frame": 3,
+            "Rig": 1,
+            "Coolant": 2
+        }
+    },
+    "Lead - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Tungsten": 6,
+            "Frame": 5,
+            "Rig": 1,
+            "Coolant": 4
+        }
+    },
+    "Lithium - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 4,
+            "Tungsten": 2,
+            "Iron": 5
+        }
+    },
+    "Lithium - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Tungsten": 4,
+            "Frame": 3,
+            "Rig": 1,
+            "Coolant": 2
+        }
+    },
+    "Lithium - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Tungsten": 6,
+            "Frame": 5,
+            "Rig": 1,
+            "Coolant": 4
+        }
+    },
+    "Mercury - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 5,
+            "Iron": 3,
+            "Nickel": 4
+        }
+    },
+    "Mercury - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Titanium": 4,
+            "Frame": 3,
+            "Manifold": 3,
+            "Sieve": 2
+        }
+    },
+    "Mercury - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Titanium": 6,
+            "Frame": 5,
+            "Sieve": 2,
+            "Manifold": 3
+        }
+    },
+    "Neodymium - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 4,
+            "Tungsten": 2,
+            "Iron": 5
+        }
+    },
+    "Neodymium - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Tungsten": 6,
+            "Frame": 5,
+            "Rig": 1,
+            "Coolant": 4
+        }
+    },
+    "Neodymium- Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Tungsten": 4,
+            "Frame": 3,
+            "Rig": 1,
+            "Coolant": 2
+        }
+    },
+    "Neon - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 5,
+            "Nickel": 4,
+            "Copper": 3
+        }
+    },
+    "Neon - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Adaptive": 0,
+            "Molecular": 0,
+            "Reactive": 0
+        }
+    },
+    "Neon - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Vanadium": 6,
+            "Frame": 5,
+            "Gauge": 3,
+            "Sieve": 2
+        }
+    },
+    "Nickel - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 4,
+            "Tungsten": 2,
+            "Iron": 5
+        }
+    },
+    "Nickel - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Tungsten": 4,
+            "Frame": 3,
+            "Rig": 1,
+            "Coolant": 2
+        }
+    },
+    "Nickel - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Tungsten": 6,
+            "Frame": 5,
+            "Rig": 1,
+            "Coolant": 4
+        }
+    },
+    "Palladium - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 4,
+            "Tungsten": 2,
+            "Iron": 5
+        }
+    },
+    "Palladium - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Tungsten": 4,
+            "Frame": 3,
+            "Rig": 1,
+            "Coolant": 2
+        }
+    },
+    "Palladium - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Tungsten": 6,
+            "Frame": 5,
+            "Rig": 1,
+            "Coolant": 4
+        }
+    },
+    "Platinum - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 4,
+            "Tungsten": 2,
+            "Iron": 5
+        }
+    },
+    "Platinum - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Tungsten": 6,
+            "Frame": 5,
+            "Rig": 1,
+            "Coolant": 4
+        }
+    },
+    "Platinum- Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Tungsten": 4,
+            "Frame": 3,
+            "Rig": 1,
+            "Coolant": 2
+        }
+    },
+    "Plutonium - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 4,
+            "Tungsten": 2,
+            "Iron": 5
+        }
+    },
+    "Plutonium - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Tungsten": 4,
+            "Frame": 3,
+            "Rig": 1,
+            "Coolant": 2
+        }
+    },
+    "Plutonium - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Tungsten": 6,
+            "Frame": 5,
+            "Rig": 1,
+            "Coolant": 4
+        }
+    },
+    "Rothicite - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 4,
+            "Tungsten": 2,
+            "Iron": 5
+        }
+    },
+    "Rothicite - Commercial 01": {
+        "power": 10,
+        "ingredients": {
+            "Tungsten": 4,
+            "Frame": 3,
+            "Rig": 1,
+            "Coolant": 2
+        }
+    },
+    "Rothicite - Commercial 02": {
+        "power": 20,
+        "ingredients": {
+            "Tungsten": 6,
+            "Frame": 5,
+            "Rig": 1,
+            "Coolant": 4
+        }
+    },
+    "Silver - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 4,
+            "Tungsten": 2,
+            "Iron": 5
+        }
+    },
+    "Silver - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Tungsten": 4,
+            "Frame": 3,
+            "Rig": 1,
+            "Coolant": 2
+        }
+    },
+    "Silver - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Tungsten": 6,
+            "Frame": 5,
+            "Rig": 1,
+            "Coolant": 4
+        }
+    },
+    "Tantalum - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 4,
+            "Tungsten": 2,
+            "Iron": 5
+        }
+    },
+    "Tantalum - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Tungsten": 4,
+            "Frame": 3,
+            "Rig": 1,
+            "Coolant": 2
+        }
+    },
+    "Tantalum - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Tungsten": 6,
+            "Frame": 5,
+            "Rig": 1,
+            "Coolant": 4
+        }
+    },
+    "Tasine - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 5,
+            "Iron": 3,
+            "Nickel": 4
+        }
+    },
+    "Tasine - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Titanium": 4,
+            "Frame": 3,
+            "Manifold": 3,
+            "Sieve": 2
+        }
+    },
+    "Tasine - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Titanium": 6,
+            "Frame": 5,
+            "Sieve": 2,
+            "Manifold": 3
+        }
+    },
+    "Tetrafluorides - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 5,
+            "Iron": 3,
+            "Nickel": 4
+        }
+    },
+    "Tetrafluorides - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Titanium": 4,
+            "Frame": 3,
+            "Manifold": 3,
+            "Sieve": 2
+        }
+    },
+    "Tetrafluorides - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Titanium": 6,
+            "Frame": 5,
+            "Sieve": 2,
+            "Manifold": 3
+        }
+    },
+    "Titanium - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 4,
+            "Tungsten": 2,
+            "Iron": 5
+        }
+    },
+    "Titanium - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Tungsten": 4,
+            "Frame": 3,
+            "Rig": 1,
+            "Coolant": 2
+        }
+    },
+    "Titanium - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Tungsten": 6,
+            "Frame": 5,
+            "Rig": 1,
+            "Coolant": 4
+        }
+    },
+    "Tungsten - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 4,
+            "Tungsten": 2,
+            "Iron": 5
+        }
+    },
+    "Tungsten - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Tungsten": 4,
+            "Frame": 3,
+            "Rig": 1,
+            "Coolant": 2
+        }
+    },
+    "Tungsten - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Tungsten": 6,
+            "Frame": 5,
+            "Rig": 1,
+            "Coolant": 4
+        }
+    },
+    "Uranium - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 4,
+            "Tungsten": 2,
+            "Iron": 5
+        }
+    },
+    "Uranium - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Tungsten": 4,
+            "Frame": 3,
+            "Rig": 1,
+            "Coolant": 2
+        }
+    },
+    "Uranium - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Tungsten": 6,
+            "Frame": 5,
+            "Rig": 1,
+            "Coolant": 4
+        }
+    },
+    "Vanadium - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 4,
+            "Tungsten": 2,
+            "Iron": 5
+        }
+    },
+    "Vanadium - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Tungsten": 4,
+            "Frame": 3,
+            "Rig": 1,
+            "Coolant": 2
+        }
+    },
+    "Vanadium - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Tungsten": 6,
+            "Frame": 5,
+            "Rig": 1,
+            "Coolant": 4
+        }
+    },
+    "Veryl - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 5,
+            "Nickel": 4,
+            "Copper": 3
+        }
+    },
+    "Veryl - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Vanadium": 4,
+            "Frame": 3,
+            "Sieve": 2,
+            "Gauge": 2
+        }
+    },
+    "Veryl - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Vanadium": 6,
+            "Frame": 5,
+            "Gauge": 3,
+            "Sieve": 2
+        }
+    },
+    "Vytinium - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 4,
+            "Tungsten": 2,
+            "Iron": 5
+        }
+    },
+    "Vytinium - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Tungsten": 4,
+            "Frame": 3,
+            "Rig": 1,
+            "Coolant": 2
+        }
+    },
+    "Vytinium - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Tungsten": 6,
+            "Frame": 5,
+            "Rig": 1,
+            "Coolant": 4
+        }
+    },
+    "Water - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 5,
+            "Iron": 3,
+            "Nickel": 4
+        }
+    },
+    "Water - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Titanium": 4,
+            "Frame": 3,
+            "Manifold": 3,
+            "Sieve": 2
+        }
+    },
+    "Water - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Titanium": 6,
+            "Frame": 5,
+            "Sieve": 2,
+            "Manifold": 3
+        }
+    },
+    "Water Vapor - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 5,
+            "Benzene": 3,
+            "Membrane": 4
+        }
+    },
+    "Water Vapor - Commercial": {
+        "power": 5,
+        "ingredients": {
+            "Tantalum": 4,
+            "Frame": 3,
+            "Manifold": 1,
+            "Wafer": 2
+        }
+    },
+    "Water Vapor - Industrial": {
+        "power": 5,
+        "ingredients": {
+            "Tantalum": 6,
+            "Frame": 5,
+            "Manifold": 2,
+            "Wafer": 2
+        }
+    },
+    "Xenon - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 5,
+            "Nickel": 4,
+            "Copper": 3
+        }
+    },
+    "Xenon - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Vanadium": 4,
+            "Frame": 3,
+            "Sieve": 2,
+            "Gauge": 2
+        }
+    },
+    "Xenon - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Vanadium": 6,
+            "Frame": 5,
+            "Gauge": 3,
+            "Sieve": 2
+        }
+    },
+    "Ytterbium - Standard": {
+        "power": 5,
+        "ingredients": {
+            "Aluminum": 4,
+            "Tungsten": 2,
+            "Iron": 5
+        }
+    },
+    "Ytterbium - Commercial": {
+        "power": 10,
+        "ingredients": {
+            "Tungsten": 4,
+            "Frame": 3,
+            "Rig": 1,
+            "Coolant": 2
+        }
+    },
+    "Ytterbium - Industrial": {
+        "power": 20,
+        "ingredients": {
+            "Tungsten": 6,
+            "Frame": 5,
+            "Rig": 1,
+            "Coolant": 4
+        }
+    },
+    "Animal Husbandry - Standard": {
+        "power": 3,
+        "ingredients": {
+            "Aluminum": 8,
+            "Sealant": 3,
+            "Frame": 5,
+            "Gauge": 3
+        }
+    },
+    "Animal Husbandry - Commercial": {
+        "power": 3,
+        "ingredients": {
+            "Aluminum": 12,
+            "Sealant": 6,
+            "Frame": 7,
+            "Sieve": 2
+        }
+    },
+    "Animal Husbandry - Industrial": {
+        "power": 3,
+        "ingredients": {
+            "Aluminum": 16,
+            "Sealant": 9,
+            "Frame": 9,
+            "Sieve": 2
+        }
+    },
+    "Greenhouse - Standard": {
+        "power": 3,
+        "ingredients": {
+            "Sealant": 3,
+            "Fluorine": 4,
+            "Frame": 5,
+            "Gauge": 3
+        }
+    },
+    "Greenhouse - Commercial": {
+        "power": 3,
+        "ingredients": {
+            "Sealant": 6,
+            "Fluorine": 8,
+            "Frame": 7,
+            "Sieve": 2
+        }
+    },
+    "Greenhouse - Industrial": {
+        "power": 3,
+        "ingredients": {
+            "Sealant": 9,
+            "Fluorine": 12,
+            "Frame": 9,
+            "Sieve": 2
+        }
+    }
+}
